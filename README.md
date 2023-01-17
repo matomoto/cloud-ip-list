@@ -1,5 +1,5 @@
 # Cloud IP list filtered
-Cloud IP list filtered
+Cloud IP list filtered (duplicate IP / IP ranges filtered)
 
 Last change: 2022-10-22
 
