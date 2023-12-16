@@ -1,7 +1,7 @@
 # Cloud IP list filtered
 Cloud IP list filtered (duplicate IP / IP ranges filtered)
 
-Last change: 2022-10-22
+Last change: 2023-12-16
 
 https://github.com/matomoto/cloud-ip-list/blob/main/cloud-ip-list.txt
 
