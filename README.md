@@ -3,6 +3,10 @@ Cloud IP list filtered (duplicate IP / IP ranges filtered)
 
 Last change: 2023-12-16
 
+Count:    
+2022-10-22: 41.017    
+2023-12-16: 49.611    
+
 https://github.com/matomoto/cloud-ip-list/blob/main/cloud-ip-list.txt
 
 IP Lists from:
