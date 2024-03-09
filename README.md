@@ -11,7 +11,11 @@ amazon aws: https://ip-ranges.amazonaws.com/ip-ranges.json
 microsoft azure: https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519    
 google digital ocean: https://www.digitalocean.com/geo/google.csv    
 google cloud: https://www.gstatic.com/ipranges/cloud.json    
-oracle cloud: https://docs.cloud.oracle.com/en-us/iaas/tools/public_ip_ranges.json    
+oracle cloud: https://docs.cloud.oracle.com/en-us/iaas/tools/public_ip_ranges.json   
+
+3.) run the matomo-cloud-ip-lists.php on the command line.
+
+`php matomo-cloud-ip-lists.php >matomo-cloud-ip-lists.txt`
 
 Use at your own risk.
 
