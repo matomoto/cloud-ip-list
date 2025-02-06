@@ -23,8 +23,6 @@ Use at your own risk.
 ## Cloud IP list filtered
 Cloud IP list filtered (duplicate IP / IP ranges filtered)
 
-Last change: 2023-12-16
-
 Count:    
 2022-10-22: 41.017    
 2023-12-16: 49.611    
